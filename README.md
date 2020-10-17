@@ -9,6 +9,8 @@
 </div>
 
 <br />
+# 저의 Hacktoberfest 홍보 게시글입니다.
+[hazzi's velog](https://velog.io/@ha_zzi/series/Hacktoberfest2020)
 
 > 많은 분들의 기여로 제작된 이 사이트는 '[www.hacktoberfestkorea.com](https://www.hacktoberfestkorea.com)'에서 확인하실 수 있습니다.
 
@@ -27,3 +29,4 @@
 facebook 'Hacktoberfest Korea' 그룹과 discord 'Hacktoberfest Korea' 서버에서 Hacktoberfest와 관련된 정보를 공유하고 있습니다.
 * [Facebook - hactoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
 * [Discord - hactoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
+
