@@ -11,9 +11,7 @@
 <br />
 
 
-# 저의 Hacktoberfest 홍보 게시글입니다.
-[hazzi's velog](https://velog.io/@ha_zzi/series/Hacktoberfest2020)
-
+# 저의 Hacktoberfest 홍보 게시글입니다. [hazzi's velog](https://velog.io/@ha_zzi/series/Hacktoberfest2020)
 
 
 > 많은 분들의 기여로 제작된 이 사이트는 '[www.hacktoberfestkorea.com](https://www.hacktoberfestkorea.com)'에서 확인하실 수 있습니다.
